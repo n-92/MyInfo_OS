@@ -9,6 +9,11 @@ OS from scratch using Nick Blundell, Bran's Kernel and OSDev.org.
 make
 ```
 
+To clean
+```sh
+make clean
+```
+
 ### Use
 
 With a usb device
